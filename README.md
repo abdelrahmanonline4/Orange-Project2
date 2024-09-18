@@ -17,8 +17,9 @@ Git: For version control and pushing changes to the GitHub repository.
 
 Do not forget to push your Docker file on DockerHub, as I did exactly in the scripts. Please read carefully like this.
 
+![image](https://github.com/user-attachments/assets/023491c9-ca1e-452c-9f7a-adca03bb9df8)
 
-![image](https://github.com/user-attachments/assets/0fb26f09-9d4f-4d11-a817-dcfd34bfa3c3)
+
 by command :
 
 docker build -t your-backend-image:latest .
@@ -35,17 +36,20 @@ and Deployment the app  and start everything in script
 
 I created a simple shell script that creates everything and gave it some commands. If the namespace is not disabled, stop the shell.
 
-![image](https://github.com/user-attachments/assets/1747d37e-8958-48ba-9398-467f6f2e7643)
+![image](https://github.com/user-attachments/assets/00d2acb2-1a55-4bbf-97fc-eb4dbbcc3dbb)
+
 
 
 after start shell 
 
-![image](https://github.com/user-attachments/assets/bc581d64-f20b-43ff-a99a-0a7de6e03d00)
+![image](https://github.com/user-attachments/assets/53629513-18fa-40e7-b594-9b4dee87943c)
+
 
 
 and check 
 
-![WhatsApp Image 2024-09-18 at 16 42 46_aa736a73](https://github.com/user-attachments/assets/37ab924d-cbff-4488-90ed-df27a69e25c9)
+![image](https://github.com/user-attachments/assets/44cbaa85-89fa-4dc5-aa9c-72828fdfb948)
+
 
 
 
