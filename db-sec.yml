@@ -4,4 +4,4 @@ metadata:
   name: db-secret
   namespace: webapp
 data:
-  db-password: "<ensureheretopass>"
+  db-password: bXlzZWNyZXRwYXNzd29yZA==
