@@ -19,10 +19,6 @@ files=(
 echo "Applying $namespace_file..."
 kubectl apply -f "$namespace_file"
 
-while ! kubectl get namespaces | grep -q "$NAMESPACE"; do
-    echo "Waiting for namespace $NAMESPACE to be created..."
-    sleep 2
-done
 
 echo "Namespace $NAMESPACE created successfully."
 
